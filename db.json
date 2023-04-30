@@ -1,0 +1,39 @@
+{
+  "toys": [
+    {
+      "id": 1,
+      "name": "Woody",
+      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+      "adopted": true,
+      "description": "Woody is a smart, determined, and passionate man, and would do anything for his nearest and dearest friends."
+    },
+    {
+      "id": 2,
+      "name": "Buzz Lightyear",
+      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
+      "adopted": false,
+      "description": "Buzz is known for his bravery and courage with a by the book mindset, believing the way people should live their life by following the rules."
+    },
+    {
+      "id": 3,
+      "name": "Jessie",
+      "image": "https://www.kindpng.com/picc/m/119-1199405_transparent-toy-story-jessie-clipart-toy-story-jessie.png",
+      "adopted": false,
+      "description": "Jessie is a friendly, sarcastic, and excitable cowgirl doll. She likes being loved by any child and has the power to yodel."
+    },
+    {
+      "id": 4,
+      "name": "Lots-o'-Huggin' Bear",
+      "image": "https://i.pinimg.com/originals/6f/18/98/6f18988f3a8f735214ec0e15d2f14cc8.jpg",
+      "adopted": false,
+      "description": "Lotso came across the toys' well being and at first seemed caring, welcoming, friendly, and possessed all of the good qualities of the stereotypical soft teddy bear."
+    },
+    {
+      "name": "bear",
+      "image": "https://media.istockphoto.com/id/909772478/photo/brown-teddy-bear-isolated-in-front-of-a-white-background.jpg?s=612x612&w=0&k=20&c=F4252bOrMfRTB8kWm2oM2jlb9JXY08tKCaO5G_ms1Uw=",
+      "description": "qftsafasf",
+      "adopted": true,
+      "id": 5
+    }
+  ]
+}
