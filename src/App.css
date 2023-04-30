@@ -1,38 +1,110 @@
-.App {
-  text-align: center;
+
+body {
+    text-align: center;
+    background-image: url("https://images7.alphacoders.com/333/333950.jpg");
+    background-size: 90%;
+    background-attachment: fixed;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.toy-image {
+    width: 300px;
+    height: 250px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.individual-image {
+    width:300px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.individual-card {
+    background-color: #f1f1f1;
+    width: 300px;
+    margin: auto;
+    border-radius: 25px;
+    
 }
 
-.App-link {
-  color: #61dafb;
+.card {
+    list-style-type: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+    width: 300px;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.navbar a{
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    color: blue;
+    font-weight: 500;
+    text-shadow: 0 0 3px yellow, 0 0 5px yellow;
 }
+
+.header {
+    padding: 10px;
+}
+
+/* .column { */
+    /* float:left;
+    width: 33%;
+    margin: auto; */
+    /* display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+} */
+
+.column {
+    float: left;
+    width: 33%;
+}
+
+
+.form {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 80%;
+    margin-bottom: 30px;
+}
+
+/* label {
+    float: left;
+    width: 80px;
+}
+
+input {
+    float: left;
+} */
+
+.info {
+    margin: auto;
+    width: 20%;
+    background-color: #f1f1f1;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+
+.section {
+    background-color: #f1f1f1;
+    width: 300px;
+    padding: 5px;
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin:auto;
+}
+
+/* .link {
+    text-decoration: none;
+} */
+
+/* 
+.navbar {
+    border-bottom: 5px solid blue;
+} */
