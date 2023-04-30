@@ -1,6 +1,5 @@
 import React, {useEffect, useState} from "react";
 import {useParams} from "react-router-dom";
-import Button from './Button'
 
 function ToyDetail () {
     const [toy, setToy] = useState(null);
